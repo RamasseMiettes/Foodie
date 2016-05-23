@@ -1,0 +1,10 @@
+Flask==0.10.1
+flask-apidoc==1.0.0
+Flask-Autodoc==0.1.2
+Flask-HTTPAuth==3.1.1
+Flask-Script==2.0.5
+Manager==2.0.5
+passlib==1.6.5
+SQLAlchemy==1.0.12
+mysqlclient
+
